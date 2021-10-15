@@ -1,11 +1,7 @@
 # Admin-Scanner
 #### ***Website Admin Panel Finder***
 
-## Usage
-```
-author: alienwhatever
-credit github.com/bdblackhat for list.txt
-orginal-source-of-list.txt -  https://github.com/bdblackhat/admin-panel-finder/blob/master/link.txt
+
 
 This tool is for educational and testing purposes only
 I am not responsible for what you do with this tool
