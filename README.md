@@ -1,31 +1,6 @@
 # Admin-Scanner
 #### ***Website Admin Panel Finder***
 
-##  How To Install? ***(Linux/pc)***
-
-* sudo apt install python3
-
-* sudo apt install python3-pip
-
-* sudo apt install git
-
-* git clone https://github.com/alienwhatever/Admin-Scanner.git 
-
-* cd Admin-Scanner
-
-
-## How to Install? ***(Termux/Android)***
-
-* pkg update && pkg upgrade
-
-* pkg install python3
-
-* pkg install git
-
-* git clone https://github.com/alienwhatever/Admin-Scanner.git
-
-* cd Admin-Scanner
-
 ## Usage
 ```
 author: alienwhatever
