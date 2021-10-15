@@ -3,8 +3,7 @@
 
 
 
-This tool is for educational and testing purposes only
-I am not responsible for what you do with this tool
+This tool is designed to find admin panel of any website by using custom  or default wordlist easily and allow you to find admin panel through a proxy server.
 
 Usages:
 
@@ -16,13 +15,6 @@ Usages:
 
 --w <path/of/custom/wordlist> - custom wordlist
 
-Example:
-./scan.py -site example.com
-./scan.py -site example.com --t 1
-./scan.py -site example.com example2.com
-./scan.py -site example.com --w /custom/wordlist/list.txt
-./scan.py --proxy http-1.2.3.4:8080 -site example.com
 
-```
 
 
